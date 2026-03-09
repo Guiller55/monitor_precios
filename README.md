@@ -22,6 +22,6 @@ git clone git@github.com:Guiller55/monitor_precios.git
 
 3. Hay un artículo de prueba ejecutando *insertar_prueba.py*
 
-4. Renombrar el archivo *.env.example* y modificarlo:
+4. Renombrar el archivo *.env.example* a *.env* y modificarlo
 
 5. Finalmente ejecutar *main.py*
