@@ -14,3 +14,5 @@ soupsieve @ file:///work/buildout/croot/soupsieve_1761937111573/work
 typing_extensions @ file:///work/buildout/croot/typing_extensions_1759952479399/work
 urllib3 @ file:///home/task_176781021564054/croot/urllib3_1767810264481/work
 wheel==0.46.3
+streamlit>=1.28.0
+pandas>=2.0.0
