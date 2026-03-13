@@ -274,7 +274,7 @@ elif opcion == "Configuración":
 st.divider()
 st.markdown("""
     <div style="text-align: center;">
-        <p>Monitor de Precios © 2026 - @cdagmora</p>
+        <p>Monitor de Precios © 2026 - @cdagmora, @guiller55</p>
         <small>Rastrea tus productos favoritos automáticamente</small>
     </div>
 """, unsafe_allow_html=True)

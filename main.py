@@ -1,6 +1,6 @@
 import sqlite3
-from scraper import obtener_precio
-from notificador import enviar_alerta
+from src.scraper import obtener_precio
+from src.notificador import enviar_alerta
 from datetime import datetime
 
 #Configuracion
