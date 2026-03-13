@@ -13,10 +13,14 @@ Un monitor de precios para Mercado Libre y Amazon que rastrea precios de product
 ```bash
 git clone git@github.com:Guiller55/monitor_precios.git
 ```
+2. Se recomienda usar conda para gestionar las dependencias
 
 ## Uso
 
-1. Instala las dependencias del requirements.txt
+1. Instala las dependencias del *environment.yml* con
+```bash
+conda env create -f environment.yml
+```
 
 2. Crea la base de datos ejecutando *database.py*
 
